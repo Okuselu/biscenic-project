@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/biscenic-project/static/css/main.6b78240f.css",
-    "main.js": "/biscenic-project/static/js/main.c34aa0ac.js",
+    "main.js": "/biscenic-project/static/js/main.376ebdf3.js",
     "static/js/453.e9367f48.chunk.js": "/biscenic-project/static/js/453.e9367f48.chunk.js",
     "index.html": "/biscenic-project/index.html",
     "main.6b78240f.css.map": "/biscenic-project/static/css/main.6b78240f.css.map",
-    "main.c34aa0ac.js.map": "/biscenic-project/static/js/main.c34aa0ac.js.map",
+    "main.376ebdf3.js.map": "/biscenic-project/static/js/main.376ebdf3.js.map",
     "453.e9367f48.chunk.js.map": "/biscenic-project/static/js/453.e9367f48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b78240f.css",
-    "static/js/main.c34aa0ac.js"
+    "static/js/main.376ebdf3.js"
   ]
 }
